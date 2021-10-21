@@ -6,13 +6,13 @@ public class Jump : MonoBehaviour
 {
     Rigidbody rb;
     public bool isGrounded;
-    public Vector3 jumo;
+    public Vector3 jump;
     public float jumpForce = 2.0f;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        Jump = new Vector3(0.0f, 2.0f, 0.0f);
+        jump = new Vector3(0.0f, 2.0f, 0.0f);
     }
 
     void OnCollisionStay()
