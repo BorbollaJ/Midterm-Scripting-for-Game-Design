@@ -15,7 +15,7 @@ public class Dimishing_Light : MonoBehaviour
     {
         if (timePassed >= 0)
         {
-            diminishLight -= 0.00005f;
+            diminishLight -= 0.0005f;
             timePassed -= Time.deltaTime + 0.005;
         }
         else if (timePassed < 0)

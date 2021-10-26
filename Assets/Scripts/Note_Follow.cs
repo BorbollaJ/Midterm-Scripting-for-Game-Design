@@ -12,8 +12,9 @@ public class Note_Follow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 playerLocation = playerNote.transform.localPosition;
+        Vector3 playerLocation = playerNote.transform.position;
 
-        followPlayer.destination = playerLocation;
+        //followPlayer.destination = playerLocation;
+        followPlayer.SetDestination(playerLocation);
     }
 }

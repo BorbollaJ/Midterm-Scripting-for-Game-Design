@@ -28,6 +28,7 @@ public class Final_Jump : MonoBehaviour
         }
 
         float x = Input.GetAxis("Horizontal");
+        x = 0;
         float z = Input.GetAxis("Vertical");
 
         Vector3 move = transform.right * x + transform.forward * z;
