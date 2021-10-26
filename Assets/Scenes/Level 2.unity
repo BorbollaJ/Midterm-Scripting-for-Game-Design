@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 9667158c812e4f143bf161999f4f7909, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a30cd91f3d969254dbbd5da55dc24971, type: 2}
     - target: {fileID: 919132149155446097, guid: 9667158c812e4f143bf161999f4f7909, type: 3}
       propertyPath: m_Name
       value: pen blend
@@ -260,6 +264,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend
@@ -291,15 +299,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.392
+      value: -3.74
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.53
+      value: -1.34
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.81
+      value: 2.53
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -329,6 +337,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (2)
@@ -386,7 +398,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -3033667219593020291, guid: 9667158c812e4f143bf161999f4f7909, type: 3}
+  - {fileID: 2100000, guid: a30cd91f3d969254dbbd5da55dc24971, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -479,6 +491,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: d140e8b5508d4b14999168c05cc91036, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: d140e8b5508d4b14999168c05cc91036, type: 3}
       propertyPath: m_Name
       value: player blend
@@ -553,6 +569,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (4)
@@ -703,6 +723,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4b758daf534c0e48a74978a9feaf994, type: 2}
     - target: {fileID: 919132149155446097, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
       propertyPath: m_Name
       value: Notepad (2)
@@ -772,6 +796,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (5)
@@ -829,6 +857,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4b758daf534c0e48a74978a9feaf994, type: 2}
     - target: {fileID: 919132149155446097, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
       propertyPath: m_Name
       value: Notepad
@@ -860,11 +892,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.392
+      value: -0.32
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.53
+      value: -0.82
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -898,6 +930,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (3)
@@ -967,6 +1003,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 73c40da70b103f64095ab206737c75e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a30cd91f3d969254dbbd5da55dc24971, type: 2}
     - target: {fileID: 919132149155446097, guid: 73c40da70b103f64095ab206737c75e0, type: 3}
       propertyPath: m_Name
       value: baton blend
@@ -1095,7 +1135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.38
+      value: -0.53
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1129,6 +1169,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (6)
@@ -1186,6 +1230,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ba327dfb45c8cf48ac5916fed57b6eb, type: 2}
     - target: {fileID: 919132149155446097, guid: 9976dd8abe5f48d48b2cde6d4633189c, type: 3}
       propertyPath: m_Name
       value: Notepad (1)
@@ -1255,6 +1303,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 75.408
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 47cfa154851ce4846b52cf33ca618428, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a30cd91f3d969254dbbd5da55dc24971, type: 2}
     - target: {fileID: 919132149155446097, guid: 47cfa154851ce4846b52cf33ca618428, type: 3}
       propertyPath: m_Name
       value: Flashlight blend
@@ -1312,6 +1364,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 7b7862346dccf3f4a9975b428326c568, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ba327dfb45c8cf48ac5916fed57b6eb, type: 2}
     - target: {fileID: 919132149155446097, guid: 7b7862346dccf3f4a9975b428326c568, type: 3}
       propertyPath: m_Name
       value: book blend (1)
@@ -1381,6 +1437,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ffc5a55ec107c3408646b299dd8f930, type: 2}
     - target: {fileID: 919132149155446097, guid: 18be0055d6881a74ca7c368bc462b59d, type: 3}
       propertyPath: m_Name
       value: other notes blend (1)
@@ -1438,6 +1498,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: dc34200cac873684daf180104df2fe1b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f05a99ea4747604d8c9d840a8ad0c18, type: 2}
     - target: {fileID: 919132149155446097, guid: dc34200cac873684daf180104df2fe1b, type: 3}
       propertyPath: m_Name
       value: lampblend
@@ -1583,6 +1647,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 7b7862346dccf3f4a9975b428326c568, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ba327dfb45c8cf48ac5916fed57b6eb, type: 2}
     - target: {fileID: 919132149155446097, guid: 7b7862346dccf3f4a9975b428326c568, type: 3}
       propertyPath: m_Name
       value: book blend
