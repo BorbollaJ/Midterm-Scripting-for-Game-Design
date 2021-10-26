@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Dimishing_Light : MonoBehaviour
 {
@@ -14,12 +15,12 @@ public class Dimishing_Light : MonoBehaviour
     {
         if (timePassed >= 0)
         {
-            diminishLight -= 0.0005f;
-            timePassed -= Time.deltaTime + 0.005; 
+            diminishLight -= 0.00005f;
+            timePassed -= Time.deltaTime + 0.005;
         }
         else if (timePassed < 0)
         {
-            Application.Quit();
+            SceneManager.LoadScene("Loss Screen");
         }
 
         lamp.intensity = diminishLight;
